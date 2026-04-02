@@ -2,8 +2,6 @@
 
 **The Prism** is a news analysis platform that never takes sides but shows all sides. It splits news articles into their core ideological components, providing a neutral factual summary followed by evaluations through Liberal, Conservative, and Centrist lenses.
 
-![The Prism Screenshot](https://picsum.photos/seed/prism-news/1200/600)
-
 ## 🚀 Features
 
 - **Neutral Factual Summary:** A strictly objective overview of events (Who, What, When, Where, Why).
