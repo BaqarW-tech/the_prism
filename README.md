@@ -1,6 +1,8 @@
-#  The Prism: News Analysis App
+# 🌈 The Prism: News Analysis App
 
 **The Prism** is a news analysis platform that never takes sides but shows all sides. It splits news articles into their core ideological components, providing a neutral factual summary followed by evaluations through Liberal, Conservative, and Centrist lenses.
+
+![The Prism Home](public/screenshots/screenshot-1.png)
 
 ## 🚀 Features
 
@@ -12,6 +14,16 @@
 - **Perspective Comparison:** Highlights areas of agreement, core value clashes, and potential "centrist bridges."
 - **AI-Powered:** Utilizes Google's Gemini models for high-fidelity ideological analysis.
 - **Exportable Reports:** Print or save analysis results as PDF.
+
+## 📸 App Gallery
+
+| Home Screen | Factual Summary | Liberal View | Conservative View |
+|:---:|:---:|:---:|:---:|
+| ![Home](public/screenshots/screenshot-1.png) | ![Factual](public/screenshots/screenshot-2.png) | ![Liberal](public/screenshots/screenshot-3.png) | ![Conservative](public/screenshots/screenshot-4.png) |
+
+| Centrist View | Comparison (1) | Comparison (2) | Footer |
+|:---:|:---:|:---:|:---:|
+| ![Centrist](public/screenshots/screenshot-5.png) | ![Comparison 1](public/screenshots/screenshot-6.png) | ![Comparison 2](public/screenshots/screenshot-7.png) | ![Footer](public/screenshots/screenshot-8.png) |
 
 ## 🛠️ Tech Stack
 
