@@ -1,4 +1,4 @@
-# 🌈 The Prism: News Analysis App
+#  The Prism: News Analysis App
 
 **The Prism** is a news analysis platform that never takes sides but shows all sides. It splits news articles into their core ideological components, providing a neutral factual summary followed by evaluations through Liberal, Conservative, and Centrist lenses.
 
