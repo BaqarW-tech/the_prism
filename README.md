@@ -15,16 +15,6 @@
 - **AI-Powered:** Utilizes Google's Gemini models for high-fidelity ideological analysis.
 - **Exportable Reports:** Print or save analysis results as PDF.
 
-## 📸 App Gallery
-
-| Home Screen | Factual Summary | Liberal View | Conservative View |
-|:---:|:---:|:---:|:---:|
-| ![Home](public/screenshots/screenshot-1.png) | ![Factual](public/screenshots/screenshot-2.png) | ![Liberal](public/screenshots/screenshot-3.png) | ![Conservative](public/screenshots/screenshot-4.png) |
-
-| Centrist View | Comparison (1) | Comparison (2) | Footer |
-|:---:|:---:|:---:|:---:|
-| ![Centrist](public/screenshots/screenshot-5.png) | ![Comparison 1](public/screenshots/screenshot-6.png) | ![Comparison 2](public/screenshots/screenshot-7.png) | ![Footer](public/screenshots/screenshot-8.png) |
-
 ## 🛠️ Tech Stack
 
 - **Framework:** [React 19](https://react.dev/)
